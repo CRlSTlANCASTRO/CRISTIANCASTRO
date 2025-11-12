@@ -10,8 +10,8 @@
 ### 🚀 Sobre mim
 
 Sou estudante de Ciência da Computação pela UNIFAP com forte interesse por tecnologia, programação e inovação.  
-Atualmente participo do projeto **SamaumaTech**, desenvolvendo soluções em **programação, robótica e tecnologia sustentável**.  
-Também estou cursando o **CS50 de Harvard**, aprofundando conhecimentos em algoritmos, estruturas de dados e desenvolvimento web.
+Atualmente participo do projeto **Pet Saúde**, desenvolvendo soluções em **programação em conjunto com o ministério da saúde**.  
+Constantimente aprofundando conhecimentos em algoritmos, estruturas de dados e desenvolvimento web.
 
 Sempre busco aprender novas tecnologias e contribuir com projetos que causem impacto real.
 
