@@ -19,8 +19,6 @@ Sempre busco aprender novas tecnologias e contribuir com projetos que causem imp
 
 ### 🧰 Tecnologias que utilizo
 
-![C](https://img.shields.io/badge/-C-2C2C2C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/-C++-2C2C2C?style=flat&logo=c%2B%2B)
 ![C#](https://img.shields.io/badge/-C%23-2C2C2C?style=flat&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-2C2C2C?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-2C2C2C?style=flat&logo=javascript)
@@ -29,27 +27,14 @@ Sempre busco aprender novas tecnologias e contribuir com projetos que causem imp
 ![React Native](https://img.shields.io/badge/-React%20Native-2C2C2C?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-2C2C2C?style=flat&logo=node.js)
 ![.NET](https://img.shields.io/badge/-.NET-2C2C2C?style=flat&logo=dotnet)
-![MongoDB](https://img.shields.io/badge/-MongoDB-2C2C2C?style=flat&logo=mongodb)
 ![SQL](https://img.shields.io/badge/-SQL-2C2C2C?style=flat&logo=mysql)
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CRISTIANCASTRO&show_icons=true&theme=tokyonight" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CRISTIANCASTRO&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ### 📫 Contato
 
 - 📧 **Email:** cris.italo.coc@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/cristiancastro777](https://linkedin.com/in/cristiancastro777)  
-- 🧠 **Cursos atuais:** CS50 de Harvard, IA Sustentável pela Softex
 
 ---
 
-### 🌱 “Aprender, construir, impactar.”
