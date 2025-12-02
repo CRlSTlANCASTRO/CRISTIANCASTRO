@@ -1,23 +1,19 @@
 
-<h1 align="center">Olá! 👋 Eu sou o Cristian Castro</h1>
+<h1 align="center">Olá! Meu nome é Cristian Castro</h1>
 
 <p align="center">
-🎓 Estudante de Ciência da Computação na UNIFAP • 💻 Desenvolvedor Full Stack em formação • 🌱 Apaixonado por IA e soluções tecnológicas sustentáveis
+ Estudante de Ciência da Computação na UNIFAP •  Desenvolvedor Full Stack em formação
 </p>
 
 ---
 
-### 🚀 Sobre mim
+###  Sobre mim
 
-Sou estudante de Ciência da Computação pela UNIFAP com forte interesse por tecnologia, programação e inovação.  
-Atualmente participo do projeto **Pet Saúde**, desenvolvendo soluções em **programação em conjunto com o ministério da saúde**.  
-Constantimente aprofundando conhecimentos em algoritmos, estruturas de dados e desenvolvimento web.
+Possuo sólida formação em Desenvolvimento Full Stack e Administração de Sistemas, focado em entregar soluções tecnológicas robustas. Minha experiência cobre o ciclo completo de desenvolvimento: utilizo React e JavaScript no front-end e Node.js com APIs RESTful no back-end. Possuo também proficiência em PHP e SQL, essenciais para a manutenção de infraestruturas existentes e a garantia da integridade de dados e performance de bancos.
 
-Sempre busco aprender novas tecnologias e contribuir com projetos que causem impacto real.
+​Minha expertise estende-se à governança de sistemas e acessos. Gerencio servidores, otimizo fluxos de trabalho e administro plataformas críticas (CRMs, sistemas de saúde). Sou fluente na aplicação de metodologias Ágeis (Scrum/Kanban) em equipes multidisciplinares. Sou uma pessoa proativa e com uma ótima comunicação interpessoal.
 
----
-
-### 🧰 Tecnologias que utilizo
+### Tecnologias que utilizo
 
 ![C#](https://img.shields.io/badge/-C%23-2C2C2C?style=flat&logo=c-sharp)
 ![Python](https://img.shields.io/badge/-Python-2C2C2C?style=flat&logo=python)
@@ -31,9 +27,9 @@ Sempre busco aprender novas tecnologias e contribuir com projetos que causem imp
 
 
 
-### 📫 Contato
+### Contato
 
-- 📧 **Email:** cris.italo.coc@gmail.com  
+-  **Email:** cris.italo.coc@gmail.com  
 - 💼 **LinkedIn:** [linkedin.com/in/cristiancastro777](https://linkedin.com/in/cristiancastro777)  
 
 ---
